@@ -40,6 +40,8 @@ wts:
 
 7.    **「Diabnostics」** セクションで次の設定を選択します。
 
+    
+
     | 設定 | 値 |
     | -- | -- |
     | Boot diagnostics (ブート診断) | **Disable (無効化)** |
