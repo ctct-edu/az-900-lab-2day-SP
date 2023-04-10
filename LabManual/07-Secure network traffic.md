@@ -145,7 +145,7 @@ wts:
 
 9.  **「追加」** をクリックして、仮想マシンへのRDP接続に戻ります。 
 
-10. **https://www.microsoft.com** を参照します。ページは表示されません。
+10.  Microsoft Edge を起動し、**https://www.microsoft.com** を参照します。ページは表示されません。
 
 11. RDP接続を切断します。
 
