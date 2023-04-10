@@ -1,6 +1,6 @@
 ---
 wts:
-    title: '05 - Azure IoT Hub の実装 (10 分)'
+    title: '05 - Azure IoT Hub の実装 (15 分)'
     module: 'モジュール 03: コア ソリューションおよび管理ツールに関する説明'
 ---
 # 05 - Azure IoT Hub の実装 (15 分)
