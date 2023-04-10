@@ -1,9 +1,9 @@
 ---
 wts:
-    title: '05 - Azure IoT Hub の実装 (15 分)'
+    title: '05 - Azure IoT Hub の実装 (20 分)'
     module: 'モジュール 03: コア ソリューションおよび管理ツールに関する説明'
 ---
-# 05 - Azure IoT Hub の実装 (15 分)
+# 05 - Azure IoT Hub の実装 (20 分)
 
 このチュートリアルでは、Azure portal で新しい Azure IoT Hub をセットアップし、Raspberry Piシミュレーターを使用して IoT デバイスとの接続を実装します。センサー データとメッセージが Raspberry Pi シミュレーターから Azure IoT Hub に送信され、Azure portal でメッセージング アクティビティのメトリックを表示します。
 
