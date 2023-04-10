@@ -1,9 +1,9 @@
 ---
 wts:
-    title: '06 - Option Azure Functions の実装 (5 分)'
+    title: '06 - Option Azure Functions の実装 (10 分)'
     module: 'モジュール 03: コア ソリューションおよび管理ツールに関する説明'
 ---
-# 06 - オプション Azure Functions の実装 (5 分)
+# 06 - オプション Azure Functions の実装 (10 分)
 
 このチュートリアルでは、HTTP 要求がある場合に Hello メッセージを表示する関数アプリを作成します。 
 
