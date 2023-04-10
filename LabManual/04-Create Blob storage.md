@@ -1,6 +1,6 @@
 ---
 wts:
-    title: '05 - Blob Storage を作成する (10 分)'
+    title: '04 - Blob Storage を作成する (10 分)'
     module: 'モジュール 02 - Azure のコア サービス (ワークロード)'
 ---
 # 04 - Blob Storage を作成する (10 分)
