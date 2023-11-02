@@ -25,7 +25,7 @@ wts:
     | リソース グループ | **アカウントのリソースグループをプルダウンから選択(新規作成はできません)** |
     | 仮想マシン名 | **az900-07-vm1** |
     | 地域 | **(Asia Pacific) Japan East** |
-    | イメージ | **Windows Server 2019 Datacenter - Gen 2** |
+    | イメージ | **Windows Server 2022 Datacenter\- Gen 2** |
     | サイズ | **Standard D2s v3**|
     | ユーザー名（管理者アカウント） | **Student** |
     | パスワード（管理者アカウント） | **Pa55w.rd1234** |

@@ -64,7 +64,7 @@ wts:
 
    ![05-00](./images/05-00.png)
 
-2. 画面右側に表示されるコードから、 **「const connectionString =」** と書かれた行を確認します。(15行目前後にあります。) **「HostName=～」** の部分を前のタスクでIoT Hub上からコピーした接続文字列で置換します。接続文字列には DeviceId (**myRaspberryPi**) と SharedAccessKey のエントリが含まれます。
+2. 画面右側に表示されるコードから、 **「const connectionString =」** と書かれた行を確認します。(15行目前後にあります。) **「HostName=～」もしくは[Your IoT hub device connection string]** の部分を前のタスクでIoT Hub上からコピーした接続文字列で置換します。接続文字列には DeviceId (**myRaspberryPi**) と SharedAccessKey のエントリが含まれます。
 
   ![Raspberry Pi シミュレーター内のコーディング領域のスクリーンショット。](./images/0604.png)
 
