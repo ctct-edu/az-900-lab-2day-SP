@@ -152,7 +152,7 @@ lab:
 
 5. RDP接続先のマシンにて、スタートメニューから「**Powershell**」を起動します。
 
-   ![AZ900_Lab1_20](C:/Users/otokita/Documents/az-900-lab-2day-SP/LabManual/media/AZ900_Lab1_20.png)
+   ![AZ900_Lab1_20](./media/AZ900_Lab1_20.png)
 
    
 
