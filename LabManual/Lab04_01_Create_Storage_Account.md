@@ -25,7 +25,7 @@ lab:
     | --- | --- |
     | サブスクリプション | **従量課金** |
     | リソース グループ | **AzureStudent##**                            |
-    | ストレージ アカウント名 | **ctctedustorage99**                          |
+    | ストレージ アカウント名 | **ctctedustorage##**                          |
     | 地域 | **(Asia Pacific) Japan East もしくは 東日本** |
     | プライマリサービス      | **未選択**                                    |
     | パフォーマンス          | **Standard**                                  |
