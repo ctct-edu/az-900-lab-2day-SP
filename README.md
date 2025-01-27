@@ -1,7 +1,7 @@
 # Microsoft Azure 基礎(AZ-900T00) ラボマニュアル
 ## はじめに
 
-本マニュアルはCTCテクノロジー主催「[Microsoft Azure 基礎(AZ-900T00)](https://www.school.ctc-g.co.jp/course/P736.html)」のラボマニュアルになります。
+本マニュアルはCTCテクノロジー主催「[Microsoft Azure 基礎(AZ-900T00)](https://www.school.ctc-g.co.jp/course/P736.html)」のラボマニュアルになります。2日間の研修において使用します。
 
 
 
