@@ -64,7 +64,7 @@ lab:
      | **設定**| **値**|
      | :--- | :--- |
      | 仮想マシン名 | **Server##-1** |
-     | 地域| **(Asia Pacific) Japan East** |
+     | リージョン | **(Asia Pacific) Japan East** |
      | 可用性オプション | **インフラストラクチャ冗長は必要ありません** |
      | イメージ | **Windows Server 2022 Datacenter: Azure Edition - x64 Gen2** |
      | Azure Spot 割引で実行する | **チェックなし** |
